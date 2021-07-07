@@ -1,11 +1,11 @@
 {
-    "name": "codebrothers_website",
-    "short_name": "codebrothers_website",
+    "name": "tcb",
+    "short_name": "tcb",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "CodebrothersWebsite",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
